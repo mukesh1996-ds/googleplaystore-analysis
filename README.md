@@ -18,3 +18,5 @@ details of the applications on Google Play. There are 13 features thstrong stron
 
 
 # Reports look like this 
+
+![image](https://github.com/mukesh1996-ds/googleplaystore-analysis/blob/main/screenshorts/Playstore%20Report%201.png)
